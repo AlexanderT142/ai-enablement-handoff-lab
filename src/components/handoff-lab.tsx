@@ -69,7 +69,7 @@ export function HandoffLab() {
         <section className="hero">
           <div className="hero-copy">
             <p className="eyebrow"><span /> Independent public work sample</p>
-            <h1>Make AI useful.<br /><em>Then make it ownable.</em></h1>
+            <h1>Turn one repeated task into a controlled handoff.</h1>
             <p className="hero-promise">
               Turn one recurring business task into a safe AI-assisted workflow, test its limits and leave the team with everything needed to own it.
             </p>
@@ -238,7 +238,7 @@ export function HandoffLab() {
 
         <section className="closing-section">
           <p className="eyebrow">The enablement standard</p>
-          <h2>Useful on day one.<br/><em>Understandable on day two.</em></h2>
+          <h2>Useful on day one. Operable on day two.</h2>
           <p>The workflow, its failure states and the handoff evidence remain inspectable after the builder leaves.</p>
           <div className="closing-links"><a href="https://github.com/AlexanderT142/ai-enablement-handoff-lab" target="_blank" rel="noreferrer">View source on GitHub ↗</a><button onClick={() => setDrawerOpen(true)}>Inspect architecture ↗</button><a href="/handoff">Open printable handoff ↗</a></div>
         </section>
