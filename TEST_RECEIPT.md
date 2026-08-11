@@ -67,4 +67,10 @@ No false green from either defect was accepted as completion.
 
 ## Production receipt
 
-Production HTTP, browser and Vercel-log evidence is added to `APPLICATION_HANDOFF.md` after deployment.
+Production deployment `dpl_Eij3j6j6CyKEk3vf3bnzQ2pUjscj` reached READY and was assigned the stable alias `https://ai-enablement-handoff-lab.vercel.app`.
+
+- All seven public routes in the HTTP campaign returned 200.
+- All four API modes returned 200, the expected distinct state and mandatory human approval.
+- The production desktop and mobile browser campaign repeated the baseline and all three failure checks without overflow or console errors.
+- Production request logs contained only 200/304 responses; an error-level query returned no logs.
+- Full production evidence, release identity and screenshots are recorded in `APPLICATION_HANDOFF.md`.

@@ -4,6 +4,8 @@ A public, independently built work sample showing the complete handoff of one na
 
 The demo uses entirely synthetic operational data. It is not associated with, commissioned by or connected to any logistics company.
 
+**Live work sample:** [ai-enablement-handoff-lab.vercel.app](https://ai-enablement-handoff-lab.vercel.app)
+
 ## What to inspect
 
 - Five-stage experience: Discover, Set the boundary, Try the workflow, Break it safely, Hand it back
